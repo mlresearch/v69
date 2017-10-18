@@ -1,0 +1,61 @@
+---
+booktitle: Proceedings of The First Workshop Medical Informatics and Healthcare held
+  with the 23rd SIGKDD Conference on Knowledge Discovery and Data Mining
+shortname: MIH'17
+volume: 69
+year: '2017'
+start: 2017-08-14
+end: 2017-08-14
+url: http://proceedings.mlr.press
+location: Nova Scotia, Halifax, Canada
+published: 2017-10-18
+layout: proceedings
+series: Proceedings of Machine Learning Research
+id: ICE-2017
+month: 0
+cycles: false
+editor:
+- given: Samah
+  family: Fodeh
+- given: Daniela Stan
+  family: Raicu
+title: Proceedings of Machine Learning Research
+description: |
+  Proceedings of The First Workshop Medical Informatics and Healthcare held with the 23rd SIGKDD Conference on Knowledge Discovery and Data Mining on 14 August 2017
+
+  Published as Volume 69 by the Proceedings of Machine Learning Research on 18 October 2017.
+
+  Volume Edited by:
+    Samah Fodeh
+    Daniela Stan Raicu
+
+  Series Editors:
+    Neil D. Lawrence
+    Mark Reid
+date_str: 14 Aug
+baseurl: "/v69"
+twitter_username: MLResearchPress
+github_username: mlresearch
+markdown: kramdown
+permalink: "/:title.html"
+github:
+  edit: true
+  repository: v69
+display:
+  copy_button:
+    bibtex: true
+    endnote: true
+    apa: true
+  comments: false
+email: ''
+conference:
+  name: Medical Informatics and Healthcare
+  url: 
+  location: 
+  dates:
+  - 2017-08-14
+analytics:
+  google:
+    tracking_id: UA-92432422-1
+# Site settings
+# Auto generated from /Users/mreid/mlresearch/v69/MIH17.bib
